@@ -20,6 +20,9 @@ fields:
   hidden: false
   default: ''
   description: Add publishing date here
+- type: tag_list
+  label: Categories
+  name: categories
 pages:
 - content/posts/inital-launch.md
 - content/posts/example-content.md
