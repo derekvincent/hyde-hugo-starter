@@ -23,6 +23,9 @@ fields:
 - type: tag_list
   label: Categories
   name: categories
+- type: tag_list
+  name: tags
+  label: Tags
 pages:
 - content/posts/inital-launch.md
 - content/posts/example-content.md
